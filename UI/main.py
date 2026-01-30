@@ -111,7 +111,7 @@ class App(ctk.CTk):
 
     def open_manual(self):
         # Замени на реальную ссылку
-        webbrowser.open("https://your-instruction-link.com")
+        webbrowser.open("https://github.com/DIhoshyn/GenerateAKK/blob/master/INSTRUCTIONS.md")
 
     def log(self, message):
         self.status_text.insert("end", message + "\n")
