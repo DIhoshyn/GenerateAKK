@@ -48,7 +48,8 @@ python ui/main.py
 project/
 ├── core/
 │   ├── generator.py
-│   └── ssh_client.py
+│   ├── ssh_client.py
+|   └── keypass_client.py
 ├── ui/
 │   └── main.py
 └── files/
