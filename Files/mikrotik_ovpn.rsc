@@ -1,10 +1,3 @@
 /ppp secret
-add name="t.yarosh" password="6#}YN<b.IAJ(eWYrEmw." service=ovpn profile=UFD comment="Yarosh_Tetyana_380675799558"
-add name="e.zhukova" password="q6?D-Z@+N}rSX{f62E!T" service=ovpn profile=UFD comment="Zhukova_Elvra_380502553278"
-add name="n.marishchuk" password="=WHpGc)(&DVTVNRtTb+m" service=ovpn profile=UFD comment="Marishchuk_Nelya_380677257694"
-add name="r.tsarykna" password="dHMg*85/}BB%9t{@sE)j" service=ovpn profile=UFD comment="Tsarykna_Rina_380505019030"
-add name="n.kleyman" password="WLAGtYsWrOS^c-23LxpS" service=ovpn profile=UFD comment="Kleyman_Natalya_380935464973"
-add name="v.rochnyak" password="-2DMv)*aG#:coBCmb{mz" service=ovpn profile=UFD comment="Rochnyak_Vktorya_380734774898"
-add name="n.solodovnkova" password="hi_}=t#Ku.>FsUVr=%B{" service=ovpn profile=UFD comment="Solodovnkova_Nna_380680228212"
-add name="z.karas" password="ZStdnv{:fm{hHv&VVS2!" service=ovpn profile=UFD comment="Karas_Zoya_380677567713"
-add name="l.kashava" password="q0RnU:8tcWx0goex[9{l" service=ovpn profile=UFD comment="Kashava_Lyudmila_380668229904"
+add name="A.default" password="6#dsghgjhjh." service=ovpn profile=SpecProf comment="Coment"
+
