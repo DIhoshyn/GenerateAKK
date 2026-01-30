@@ -1,3 +1,7 @@
+#GenerateAKK
+#v.1.0.0
+#D.Ihoshyn IOC
+
 import sys
 import os
 import json
